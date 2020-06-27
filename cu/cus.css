@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Tera&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Lexend+Tera&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Odibee+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bellota&family=Roboto:wght@300&display=swap');
+
+body{
+  margin: 0px;
+  background-image:url("file:///C:/Users/Mehul/Documents/filmania/trending.html/abstract-red-blue-digital-art-wallpaper.jpg");
+  background-size: cover;
+
+}
+#navigationbar{
+  font-family: sans-serif;
+  background-color: #000;
+  padding: 0px;
+  margin: auto;
+  transition: all 1s;
+  max-height: 400px;
+  margin-bottom: 0px;
+}
+
+#home,#top,#loginscreen,#contactus{
+  font-family:"bellota",sans-serif !important;
+  color: #fff;
+  font-size: 22px;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.linkk:link, .linkk:visited {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.linkk:hover, .linkk:active{
+  color: red;
+}
+
+#home{
+  margin-left: 500px;
+}
+
+body>div>article{
+  margin: 0px;
+  display:inline-block;
+  max-width: 650px;
+}
+
+#ho{
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: auto;
+  padding: 40px;
+  margin-bottom: 4px;
+  background-position: absolute;
+}
+
+#ho>h1{
+  font-family: 'lobster',sans-serif;
+  margin:auto;
+  font-weight: 10;
+  color: #fff;
+  text-shadow: 8px 3px 4px #000 !important;
+  font-size: 180;
+  letter-spacing: 4px;
+  margin-bottom: 40px;
+  text-transform: capitalize;
+  max-width: 1900px;
+  margin-top:5px;
+  margin-bottom: 0px;
+}
+
+.top3{
+  padding: 10px;
+  margin: auto;
+  max-width: 1500px;
+  margin-top: 0px;
+  border-bottom: 2px solid #fff;
+}
+
+.oneshow{
+  max-width: 22%;
+  font-family:"roboto", sans-serif;
+  font-size: 20px;
+  display:inline-block;
+  margin-right: 27px;
+  margin-left: 37px;
+  transition: all 1s;
+  border-radius: 20px;
+  transition: all 1s;
+  text-align: center;
+  margin-top: 0px;
+  height: 160px;
+  margin-bottom: 0px;
+}
+
+article img{
+  padding: 5px;
+  max-width: 60%;
+  border-bottom: 0px;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 10px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+#detail{
+  margin:auto;
+  margin-left: 240px;
+  margin-top: 0px;
+  padding: 10px;
+  margin-bottom: 0px;
+  height: 200px;
+}
+
+section>article>h4{
+  align-self:auto;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
